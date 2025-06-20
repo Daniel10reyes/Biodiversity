@@ -1,0 +1,8 @@
+                              Multiple Comparison of Means - Tukey HSD, FWER=0.05                              
+               group1              ,               group2              ,meandiff,p-adj, lower  , upper  ,reject
+Bryce National Park                ,Great Smoky Mountains National Park,-26.3318,0.0  ,-35.011 ,-17.6527,True  
+Bryce National Park                ,Yellowstone National Park          ,118.0636,0.0  ,109.3845,126.7428,True  
+Bryce National Park                ,Yosemite National Park             ,37.7455 ,0.0  ,29.0663 ,46.4246 ,True  
+Great Smoky Mountains National Park,Yellowstone National Park          ,144.3955,0.0  ,135.7163,153.0746,True  
+Great Smoky Mountains National Park,Yosemite National Park             ,64.0773 ,0.0  ,55.3981 ,72.7564 ,True  
+Yellowstone National Park          ,Yosemite National Park             ,-80.3182,0.0  ,-88.9973,-71.639 ,True  
