@@ -23,5 +23,5 @@ Observation counts varied significantly across parks (ANOVA p-value = 0), inviti
 🚀 Getting Started
 To explore the dashboard:
 - Download SpeciesObservation.pbix
-- Open with Power BI Desktop
+- Open the link to the Power Bihttps://app.powerbi.com/groups/me/reports/033b7a74-26a7-4a16-a83f-5e97c6b054cb/90816ba6aa461a1bc016?experience=power-bi
 - Use slicers and filters to interact with the data and uncover insight
